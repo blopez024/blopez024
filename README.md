@@ -5,6 +5,7 @@ Hey! I'm Bryan Lopez, an aspiring software developer.
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blopez24/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/blopez024/)
 
 ## 🖥️ Front-End Stack
 
