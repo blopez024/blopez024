@@ -13,7 +13,7 @@
 
 Developer with experience building healthcare systems at [Epic](https://www.epic.com/) and environmental data platforms at [Program Earth](https://programearth.org/).
 
-[![Resume](https://img.shields.io/badge/-Resume-white?style=for-the-badge&logo=read-the-docs)](https://github.com/blopez024/blopez024/resume.pdf)
+[![Resume](https://img.shields.io/badge/-Resume-white?style=for-the-badge&logo=read-the-docs)](https://github.com/blopez024/blopez024/blob/main/resume.pdf)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/blopez24/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blopez024/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bmlopez024+github@gmail.com)
